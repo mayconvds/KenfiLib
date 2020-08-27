@@ -1,3 +1,4 @@
+--Teste =)
 CombatLib = {
 	setParameter = function(self, key, value)
 		setCombatParam(self.combat, key, value)
